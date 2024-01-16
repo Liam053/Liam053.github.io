@@ -54,3 +54,22 @@ section {
   border-bottom: 1px solid white;
 }
 
+#skills img[src='unitylogo.png'] {
+  margin-top: -50px; /* Zorgt ervoor dat de png wat naar boven word geplaatst */
+}
+
+#skills img[src='CSS.png'] {
+  margin-top: +60px; /* Zorgt ervoor dat de png wat naar onder word geplaatst */
+}
+
+#skills img[src='github desktop.png'] {
+  margin-top: +30px; /* Zorgt ervoor dat de png wat naar onder word geplaatst */
+}
+
+#skills img[src='visual studio goed.png'] {
+  margin-top: +30px; /* Zorgt ervoor dat de png wat naar onder word geplaatst */
+}
+
+#skills img[src='Monogame.png'] {
+  margin-top: +30px; /* Zorgt ervoor dat de png wat naar onder word geplaatst */
+}
